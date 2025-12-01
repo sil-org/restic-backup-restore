@@ -34,6 +34,3 @@ Docker image to initialize, backup to, and restore from a Restic repository on A
 
 It's recommended that your S3 bucket **NOT** have versioning turned on.
 Old versions of Restic's repository files are not useful.
-
-## Docker Hub
-This image is built automatically on Docker Hub as [silintl/restic-backup-restore](https://hub.docker.com/r/silintl/restic-backup-restore/)
